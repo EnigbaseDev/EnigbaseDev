@@ -1,7 +1,7 @@
 ## Hi there 👋, Im Carlos
 
 📍 Colombia | 17 years old  
-💻 Passionate about Software 
+💻 Passionate about Software  
 🎮 Content creator and video editor  
 🚀 Chasing a better future through technology
 
