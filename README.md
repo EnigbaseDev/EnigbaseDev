@@ -11,7 +11,7 @@
 
 Since I was a kid, I’ve been passionate about video games, editing, and programming.  
 At 13, I built my first PC, and I haven’t stopped learning since.  
-Now, I’m studying Software Engineering and creating content while leveling up as a developer.
+Now, I’m studying Systems Engineering and creating content while leveling up as a developer.
 
 🧠 Currently learning: `Python`, `HTML`, `CSS`, `JavaScript`,`Git`,`GitHub`  
 🎯 Focused on: Web development, logic building, and personal growth  
