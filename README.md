@@ -22,7 +22,7 @@ Now, I’m studying Systems Engineering and creating content while leveling up a
 ## 🚀 Interests
 
 - Web development (Frontend & Backend) or Maybe DevOps
-- Automation with Python
+- Automation with Python (AI)
 - Philosophy and deep conversations
 - Creating content that inspires and entertains
 - Growing as a developer and as a person
