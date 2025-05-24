@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Carlos
+# 👋 Hi there, I'm Carlos
 
 ### Self-taught developer · Content creator · Dream chaser 🚀
 
