@@ -3,7 +3,7 @@
 ### Self-taught developer · Content creator · Dream chaser 🚀
 
 <p style="font-size:24px; font-weight:bold;">
-📍 Colombia | 17 years old<br>
+📍 Colombia | 18 years old<br>
 💻 Passionate about Software<br>
 🎮 Content creator and video editor<br>
 🚀 Chasing a better future through technology
