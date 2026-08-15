@@ -32,17 +32,3 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
----
-
-<div align="center">
-
-## 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=EnigbaseDev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=EnigbaseDev&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EnigbaseDev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-</div>
-
----
