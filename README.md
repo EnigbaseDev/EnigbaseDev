@@ -20,7 +20,6 @@
 - 💬 Ask me about being a self-taught dev, editing videos, or streaming while learning to code.
 - ⚡ Fun fact: I built my first PC at 13 and edit videos for influencers while dreaming of lifting my family up through tech.
 
----
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/carlos-monsalve-13ab35388/) 
 ---
