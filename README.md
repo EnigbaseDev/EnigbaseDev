@@ -10,7 +10,6 @@
 </p>
 
 ---
-
 ## 🧠 About Me
 
 - 🛠️ Currently building my programming skills with Python and frontend technologies while creating content on TikTok.
@@ -22,7 +21,6 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/carlos-monsalve-13ab35388/) 
----
 
 ## 💻 Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
